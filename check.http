@@ -1,0 +1,11 @@
+###
+GET http://localhost:8081/auth HTTP/1.1
+
+###
+GET http://localhost:8082/payment HTTP/1.1
+
+###
+GET http://localhost:8083/order HTTP/1.1
+
+###
+GET http://localhost:8084/notification HTTP/1.1
